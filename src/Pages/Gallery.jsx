@@ -1,5 +1,5 @@
 import React from "react";
-import Marquee from "react-fast-Marquee";
+import Marquee from 'react-fast-marquee';
 import Marquee1 from "../assets/Marquee1.jpg";
 import Marquee2 from "../assets/Marquee2.jpg";
 import Marquee3 from "../assets/Marquee3.webp";
@@ -30,8 +30,6 @@ const Gallery = () => {
         </div>
       ))}
     </Marquee>
-
-
     </div>
   );
 };
