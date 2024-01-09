@@ -1,13 +1,13 @@
 import React from "react";
-import Marquee from "react-fast-marquee";
-import Marquee1 from "../assets/marquee1.jpg";
-import Marquee2 from "../assets/marquee2.jpg";
-import Marquee3 from "../assets/marquee3.webp";
-import Marquee4 from "../assets/marquee4.avif";
-import Marquee5 from "../assets/marquee5.png";
-import Marquee6 from "../assets/marquee6.avif";
-import Marquee7 from "../assets/marquee7.avif";
-import Marquee8 from "../assets/marquee8.jpg";
+import Marquee from "react-fast-Marquee";
+import Marquee1 from "../assets/Marquee1.jpg";
+import Marquee2 from "../assets/Marquee2.jpg";
+import Marquee3 from "../assets/Marquee3.webp";
+import Marquee4 from "../assets/Marquee4.avif";
+import Marquee5 from "../assets/Marquee5.png";
+import Marquee6 from "../assets/Marquee6.avif";
+import Marquee7 from "../assets/Marquee7.avif";
+import Marquee8 from "../assets/Marquee8.jpg";
 
 const Slider = () => {
   return (
