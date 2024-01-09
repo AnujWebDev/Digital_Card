@@ -9,7 +9,7 @@ import Marquee6 from "../assets/Marquee6.avif";
 import Marquee7 from "../assets/Marquee7.avif";
 import Marquee8 from "../assets/Marquee8.jpg";
 
-const Slider = () => {
+const Gallery = () => {
   return (
     <div>
       <p className="text-md font-semibold  mt-5 text-center">
@@ -36,4 +36,4 @@ const Slider = () => {
   );
 };
 
-export default Slider;
+export default Gallery;

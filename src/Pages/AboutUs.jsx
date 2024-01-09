@@ -8,7 +8,8 @@ import cr from "../assets/cr.png"
 import pt from "../assets/pt.png"
 import company from "../assets/company.jpg"
 import "./AboutUs.css";
-import Slider from "./Slider";
+
+import Gallery from "./Gallery";
 const AboutUs = () => {
   return (
     <div id="about" className=" overflow-hidden">
@@ -23,7 +24,7 @@ const AboutUs = () => {
         <p>Company Name:i-SOFTZONE</p>
       </div>
       <div>
-        <Slider/>
+        <Gallery/>
       </div>
       <div
         className="rounded-full p-3 mt-5 border bg-primary text-white transition duration-500 text-center ease-in-out transform hover:bg-white hover:scale-90 hover:text-black"

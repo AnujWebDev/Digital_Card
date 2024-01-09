@@ -7,7 +7,6 @@ import Products from './Pages/Products'
 import Payment from './Pages/Payment'
 import Feedback from './Pages/Feedback'
 import Enquiry from './Pages/Enquiry'
-import Slider from './Pages/Slider'
 function App() {
   return (
     <>
