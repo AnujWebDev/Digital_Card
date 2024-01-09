@@ -1,0 +1,16 @@
+#about{
+    width:375px;
+    border-right: 5px solid #09c7e0;
+    border-left: 5px solid #09c7e0;
+    border-bottom: 5px solid #09c7e0;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.services{
+    border-radius: 100px 0 0 100px;
+}
+.head{
+    border-radius: 0 0 100px 0;
+}
